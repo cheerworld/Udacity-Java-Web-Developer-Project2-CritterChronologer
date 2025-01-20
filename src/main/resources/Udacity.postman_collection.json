@@ -230,7 +230,7 @@
 						}
 					}
 				},
-				"url": "http://localhost:8082/schedules/employee/1"
+				"url": "http://localhost:8082/schedules/customer/1"
 			},
 			"response": []
 		},
